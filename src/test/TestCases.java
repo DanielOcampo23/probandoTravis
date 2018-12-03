@@ -1,10 +1,9 @@
 package test;
 
+import java.util.*;
+
+import static org.junit.Assert.*;
 import org.junit.*;
-
-import static org.junit.Assert.assertEquals;
-
-import org.junit.Test;
 
 import control.Ejecutable;
 
